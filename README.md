@@ -7,6 +7,22 @@
 ![FAISS](https://img.shields.io/badge/FAISS-VectorSearch-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+# AI Ad Diagnostics Engine
+
+<p align="center">
+  <b>Analyze campaign health, detect performance issues, and troubleshoot ad delivery with an interactive RAG-powered analytics platform.</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-API-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-Frontend-FF4B4B?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-LLM-yellow?logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/FAISS-Retrieval-purple" />
+  <img src="https://img.shields.io/badge/Analytics-Business-orange" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+</p>
+
 # AI Ad Campaign Diagnostics & Troubleshooting Platform
 
 An AI-powered platform for diagnosing advertising campaign issues and providing automated troubleshooting suggestions using Retrieval-Augmented Generation (RAG).
