@@ -1,6 +1,11 @@
 ![AI Ads Diagnostics Dashboard](images/Screenshot 2026-03-16 173917.png)
 
-
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-VectorSearch-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 # AI Ad Campaign Diagnostics & Troubleshooting Platform
 
