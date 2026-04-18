@@ -1,4 +1,5 @@
 ![AI Ads Diagnostics Dashboard](images/Screenshot 2026-03-16 173917.png)
+# AI Ad Campaign Diagnostics & Troubleshooting Platform
 
 <p align="center">
   <b>Analyze campaign health, detect performance issues, and troubleshoot ad delivery with an interactive RAG-powered analytics platform.</b>
@@ -13,8 +14,6 @@
   <img src="https://img.shields.io/badge/Analytics-Business-orange" />
 
 </p>
-
-# AI Ad Campaign Diagnostics & Troubleshooting Platform
 
 An AI-powered platform for diagnosing advertising campaign issues and providing automated troubleshooting suggestions using Retrieval-Augmented Generation (RAG).
 
