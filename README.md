@@ -1,5 +1,4 @@
 ![AI Ads Diagnostics Dashboard](images/Screenshot 2026-03-16 173917.png)
-# AI Ad Diagnostics Engine
 
 <p align="center">
   <b>Analyze campaign health, detect performance issues, and troubleshoot ad delivery with an interactive RAG-powered analytics platform.</b>
