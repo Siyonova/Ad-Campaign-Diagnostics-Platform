@@ -1,0 +1,1001 @@
+ticket_id,ticket_text,diagnosed_issue
+TICKET_1,Why is my CPC so high?,poor keyword targeting
+TICKET_2,Ads approved but not delivering,bid strategy problem
+TICKET_3,Campaign spend increased unexpectedly,low CTR
+TICKET_4,Why are my ads not showing?,conversion tracking failure
+TICKET_5,Why are my ads not showing?,low CTR
+TICKET_6,My campaign budget finished too quickly,low CTR
+TICKET_7,Conversions stopped tracking,bid strategy problem
+TICKET_8,My campaign budget finished too quickly,budget exhausted
+TICKET_9,Why are my ads not showing?,poor keyword targeting
+TICKET_10,CTR dropped suddenly yesterday,low CTR
+TICKET_11,Why are my ads not showing?,bid strategy problem
+TICKET_12,Conversions stopped tracking,poor keyword targeting
+TICKET_13,Conversions stopped tracking,budget exhausted
+TICKET_14,Why are my ads not showing?,low CTR
+TICKET_15,Conversions stopped tracking,poor keyword targeting
+TICKET_16,My ads are getting clicks but no conversions,budget exhausted
+TICKET_17,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_18,Traffic from ads decreased,conversion tracking failure
+TICKET_19,Why is my CPC so high?,budget exhausted
+TICKET_20,Conversions stopped tracking,conversion tracking failure
+TICKET_21,Campaign spend increased unexpectedly,budget exhausted
+TICKET_22,CTR dropped suddenly yesterday,low CTR
+TICKET_23,CTR dropped suddenly yesterday,low CTR
+TICKET_24,My ads are getting clicks but no conversions,budget exhausted
+TICKET_25,Why are my ads not showing?,bid strategy problem
+TICKET_26,Why is my CPC so high?,budget exhausted
+TICKET_27,Ads approved but not delivering,conversion tracking failure
+TICKET_28,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_29,Ads approved but not delivering,conversion tracking failure
+TICKET_30,Impressions are high but nobody is clicking,conversion tracking failure
+TICKET_31,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_32,Traffic from ads decreased,low CTR
+TICKET_33,Impressions are high but nobody is clicking,low CTR
+TICKET_34,Why are my ads not showing?,budget exhausted
+TICKET_35,My campaign budget finished too quickly,poor keyword targeting
+TICKET_36,CTR dropped suddenly yesterday,poor keyword targeting
+TICKET_37,Why is my CPC so high?,conversion tracking failure
+TICKET_38,Conversions stopped tracking,conversion tracking failure
+TICKET_39,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_40,Ads approved but not delivering,bid strategy problem
+TICKET_41,Campaign spend increased unexpectedly,low CTR
+TICKET_42,CTR dropped suddenly yesterday,budget exhausted
+TICKET_43,Why are my ads not showing?,budget exhausted
+TICKET_44,My campaign budget finished too quickly,conversion tracking failure
+TICKET_45,Traffic from ads decreased,budget exhausted
+TICKET_46,Why is my CPC so high?,bid strategy problem
+TICKET_47,Why are my ads not showing?,low CTR
+TICKET_48,Conversions stopped tracking,low CTR
+TICKET_49,Conversions stopped tracking,poor keyword targeting
+TICKET_50,My campaign budget finished too quickly,bid strategy problem
+TICKET_51,Conversions stopped tracking,budget exhausted
+TICKET_52,Why are my ads not showing?,conversion tracking failure
+TICKET_53,Conversions stopped tracking,poor keyword targeting
+TICKET_54,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_55,My campaign budget finished too quickly,low CTR
+TICKET_56,Ads approved but not delivering,bid strategy problem
+TICKET_57,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_58,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_59,Campaign spend increased unexpectedly,budget exhausted
+TICKET_60,Ads approved but not delivering,budget exhausted
+TICKET_61,Traffic from ads decreased,poor keyword targeting
+TICKET_62,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_63,CTR dropped suddenly yesterday,budget exhausted
+TICKET_64,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_65,My campaign budget finished too quickly,bid strategy problem
+TICKET_66,Conversions stopped tracking,conversion tracking failure
+TICKET_67,Ads approved but not delivering,bid strategy problem
+TICKET_68,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_69,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_70,Why are my ads not showing?,bid strategy problem
+TICKET_71,Traffic from ads decreased,conversion tracking failure
+TICKET_72,My campaign budget finished too quickly,poor keyword targeting
+TICKET_73,Conversions stopped tracking,low CTR
+TICKET_74,Why are my ads not showing?,poor keyword targeting
+TICKET_75,Impressions are high but nobody is clicking,budget exhausted
+TICKET_76,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_77,Why is my CPC so high?,low CTR
+TICKET_78,Traffic from ads decreased,bid strategy problem
+TICKET_79,Traffic from ads decreased,low CTR
+TICKET_80,Ads approved but not delivering,poor keyword targeting
+TICKET_81,Why are my ads not showing?,bid strategy problem
+TICKET_82,CTR dropped suddenly yesterday,bid strategy problem
+TICKET_83,My campaign budget finished too quickly,conversion tracking failure
+TICKET_84,Conversions stopped tracking,budget exhausted
+TICKET_85,Ads approved but not delivering,bid strategy problem
+TICKET_86,My campaign budget finished too quickly,poor keyword targeting
+TICKET_87,My campaign budget finished too quickly,low CTR
+TICKET_88,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_89,Ads approved but not delivering,low CTR
+TICKET_90,Ads approved but not delivering,conversion tracking failure
+TICKET_91,Conversions stopped tracking,conversion tracking failure
+TICKET_92,CTR dropped suddenly yesterday,budget exhausted
+TICKET_93,Conversions stopped tracking,conversion tracking failure
+TICKET_94,CTR dropped suddenly yesterday,budget exhausted
+TICKET_95,Impressions are high but nobody is clicking,budget exhausted
+TICKET_96,Ads approved but not delivering,bid strategy problem
+TICKET_97,My ads are getting clicks but no conversions,budget exhausted
+TICKET_98,Traffic from ads decreased,budget exhausted
+TICKET_99,Conversions stopped tracking,conversion tracking failure
+TICKET_100,My ads are getting clicks but no conversions,low CTR
+TICKET_101,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_102,Why is my CPC so high?,low CTR
+TICKET_103,Why is my CPC so high?,bid strategy problem
+TICKET_104,Ads approved but not delivering,poor keyword targeting
+TICKET_105,Impressions are high but nobody is clicking,conversion tracking failure
+TICKET_106,My campaign budget finished too quickly,bid strategy problem
+TICKET_107,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_108,Traffic from ads decreased,bid strategy problem
+TICKET_109,Campaign spend increased unexpectedly,low CTR
+TICKET_110,My ads are getting clicks but no conversions,low CTR
+TICKET_111,Ads approved but not delivering,conversion tracking failure
+TICKET_112,Why is my CPC so high?,low CTR
+TICKET_113,Campaign spend increased unexpectedly,budget exhausted
+TICKET_114,Why is my CPC so high?,conversion tracking failure
+TICKET_115,Why are my ads not showing?,conversion tracking failure
+TICKET_116,Impressions are high but nobody is clicking,low CTR
+TICKET_117,Ads approved but not delivering,low CTR
+TICKET_118,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_119,Traffic from ads decreased,budget exhausted
+TICKET_120,Traffic from ads decreased,poor keyword targeting
+TICKET_121,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_122,Conversions stopped tracking,conversion tracking failure
+TICKET_123,Why is my CPC so high?,bid strategy problem
+TICKET_124,Ads approved but not delivering,conversion tracking failure
+TICKET_125,My ads are getting clicks but no conversions,budget exhausted
+TICKET_126,My campaign budget finished too quickly,conversion tracking failure
+TICKET_127,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_128,CTR dropped suddenly yesterday,low CTR
+TICKET_129,Why are my ads not showing?,budget exhausted
+TICKET_130,Conversions stopped tracking,poor keyword targeting
+TICKET_131,Impressions are high but nobody is clicking,conversion tracking failure
+TICKET_132,Conversions stopped tracking,budget exhausted
+TICKET_133,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_134,Campaign spend increased unexpectedly,bid strategy problem
+TICKET_135,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_136,Why are my ads not showing?,budget exhausted
+TICKET_137,Conversions stopped tracking,conversion tracking failure
+TICKET_138,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_139,Why is my CPC so high?,conversion tracking failure
+TICKET_140,My campaign budget finished too quickly,conversion tracking failure
+TICKET_141,CTR dropped suddenly yesterday,budget exhausted
+TICKET_142,Conversions stopped tracking,low CTR
+TICKET_143,Why is my CPC so high?,bid strategy problem
+TICKET_144,Why is my CPC so high?,budget exhausted
+TICKET_145,Traffic from ads decreased,poor keyword targeting
+TICKET_146,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_147,CTR dropped suddenly yesterday,poor keyword targeting
+TICKET_148,Traffic from ads decreased,bid strategy problem
+TICKET_149,My campaign budget finished too quickly,bid strategy problem
+TICKET_150,Why are my ads not showing?,budget exhausted
+TICKET_151,Why are my ads not showing?,budget exhausted
+TICKET_152,Why are my ads not showing?,poor keyword targeting
+TICKET_153,Traffic from ads decreased,low CTR
+TICKET_154,Campaign spend increased unexpectedly,low CTR
+TICKET_155,Traffic from ads decreased,bid strategy problem
+TICKET_156,Conversions stopped tracking,bid strategy problem
+TICKET_157,Traffic from ads decreased,conversion tracking failure
+TICKET_158,Impressions are high but nobody is clicking,budget exhausted
+TICKET_159,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_160,Why is my CPC so high?,budget exhausted
+TICKET_161,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_162,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_163,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_164,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_165,Conversions stopped tracking,budget exhausted
+TICKET_166,Why are my ads not showing?,bid strategy problem
+TICKET_167,Why is my CPC so high?,budget exhausted
+TICKET_168,Ads approved but not delivering,bid strategy problem
+TICKET_169,Traffic from ads decreased,low CTR
+TICKET_170,Why are my ads not showing?,bid strategy problem
+TICKET_171,Traffic from ads decreased,conversion tracking failure
+TICKET_172,Conversions stopped tracking,poor keyword targeting
+TICKET_173,Conversions stopped tracking,conversion tracking failure
+TICKET_174,Why are my ads not showing?,poor keyword targeting
+TICKET_175,Impressions are high but nobody is clicking,budget exhausted
+TICKET_176,Conversions stopped tracking,low CTR
+TICKET_177,CTR dropped suddenly yesterday,bid strategy problem
+TICKET_178,Conversions stopped tracking,budget exhausted
+TICKET_179,Why is my CPC so high?,budget exhausted
+TICKET_180,My ads are getting clicks but no conversions,low CTR
+TICKET_181,Conversions stopped tracking,poor keyword targeting
+TICKET_182,Why is my CPC so high?,low CTR
+TICKET_183,Why is my CPC so high?,bid strategy problem
+TICKET_184,Impressions are high but nobody is clicking,low CTR
+TICKET_185,Why is my CPC so high?,poor keyword targeting
+TICKET_186,Why is my CPC so high?,low CTR
+TICKET_187,Impressions are high but nobody is clicking,low CTR
+TICKET_188,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_189,My ads are getting clicks but no conversions,low CTR
+TICKET_190,Impressions are high but nobody is clicking,low CTR
+TICKET_191,Why is my CPC so high?,bid strategy problem
+TICKET_192,My campaign budget finished too quickly,conversion tracking failure
+TICKET_193,CTR dropped suddenly yesterday,bid strategy problem
+TICKET_194,Traffic from ads decreased,low CTR
+TICKET_195,Traffic from ads decreased,low CTR
+TICKET_196,Why is my CPC so high?,conversion tracking failure
+TICKET_197,Campaign spend increased unexpectedly,budget exhausted
+TICKET_198,Impressions are high but nobody is clicking,conversion tracking failure
+TICKET_199,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_200,Why is my CPC so high?,poor keyword targeting
+TICKET_201,Ads approved but not delivering,conversion tracking failure
+TICKET_202,My campaign budget finished too quickly,low CTR
+TICKET_203,Why is my CPC so high?,budget exhausted
+TICKET_204,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_205,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_206,Why are my ads not showing?,poor keyword targeting
+TICKET_207,Why is my CPC so high?,poor keyword targeting
+TICKET_208,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_209,Impressions are high but nobody is clicking,conversion tracking failure
+TICKET_210,Traffic from ads decreased,bid strategy problem
+TICKET_211,My campaign budget finished too quickly,conversion tracking failure
+TICKET_212,Campaign spend increased unexpectedly,budget exhausted
+TICKET_213,Ads approved but not delivering,budget exhausted
+TICKET_214,My ads are getting clicks but no conversions,budget exhausted
+TICKET_215,Why are my ads not showing?,poor keyword targeting
+TICKET_216,CTR dropped suddenly yesterday,budget exhausted
+TICKET_217,Campaign spend increased unexpectedly,low CTR
+TICKET_218,Traffic from ads decreased,conversion tracking failure
+TICKET_219,My campaign budget finished too quickly,poor keyword targeting
+TICKET_220,Conversions stopped tracking,budget exhausted
+TICKET_221,Ads approved but not delivering,poor keyword targeting
+TICKET_222,Conversions stopped tracking,poor keyword targeting
+TICKET_223,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_224,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_225,My campaign budget finished too quickly,bid strategy problem
+TICKET_226,Why is my CPC so high?,conversion tracking failure
+TICKET_227,Conversions stopped tracking,low CTR
+TICKET_228,Impressions are high but nobody is clicking,conversion tracking failure
+TICKET_229,Traffic from ads decreased,budget exhausted
+TICKET_230,My campaign budget finished too quickly,low CTR
+TICKET_231,Why are my ads not showing?,bid strategy problem
+TICKET_232,Impressions are high but nobody is clicking,bid strategy problem
+TICKET_233,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_234,Conversions stopped tracking,poor keyword targeting
+TICKET_235,My ads are getting clicks but no conversions,low CTR
+TICKET_236,Why is my CPC so high?,conversion tracking failure
+TICKET_237,Ads approved but not delivering,low CTR
+TICKET_238,My ads are getting clicks but no conversions,low CTR
+TICKET_239,Campaign spend increased unexpectedly,low CTR
+TICKET_240,Conversions stopped tracking,poor keyword targeting
+TICKET_241,Ads approved but not delivering,poor keyword targeting
+TICKET_242,Traffic from ads decreased,bid strategy problem
+TICKET_243,Traffic from ads decreased,bid strategy problem
+TICKET_244,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_245,CTR dropped suddenly yesterday,poor keyword targeting
+TICKET_246,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_247,Why is my CPC so high?,budget exhausted
+TICKET_248,Conversions stopped tracking,bid strategy problem
+TICKET_249,Conversions stopped tracking,budget exhausted
+TICKET_250,Traffic from ads decreased,low CTR
+TICKET_251,Traffic from ads decreased,conversion tracking failure
+TICKET_252,My ads are getting clicks but no conversions,budget exhausted
+TICKET_253,Traffic from ads decreased,poor keyword targeting
+TICKET_254,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_255,Conversions stopped tracking,conversion tracking failure
+TICKET_256,Traffic from ads decreased,poor keyword targeting
+TICKET_257,CTR dropped suddenly yesterday,budget exhausted
+TICKET_258,Why are my ads not showing?,conversion tracking failure
+TICKET_259,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_260,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_261,Why is my CPC so high?,budget exhausted
+TICKET_262,Why are my ads not showing?,bid strategy problem
+TICKET_263,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_264,Why is my CPC so high?,conversion tracking failure
+TICKET_265,Ads approved but not delivering,poor keyword targeting
+TICKET_266,Ads approved but not delivering,budget exhausted
+TICKET_267,Conversions stopped tracking,poor keyword targeting
+TICKET_268,Why is my CPC so high?,low CTR
+TICKET_269,Conversions stopped tracking,poor keyword targeting
+TICKET_270,Impressions are high but nobody is clicking,conversion tracking failure
+TICKET_271,Ads approved but not delivering,poor keyword targeting
+TICKET_272,Why are my ads not showing?,budget exhausted
+TICKET_273,Campaign spend increased unexpectedly,low CTR
+TICKET_274,Conversions stopped tracking,bid strategy problem
+TICKET_275,Ads approved but not delivering,conversion tracking failure
+TICKET_276,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_277,Campaign spend increased unexpectedly,bid strategy problem
+TICKET_278,CTR dropped suddenly yesterday,bid strategy problem
+TICKET_279,My ads are getting clicks but no conversions,low CTR
+TICKET_280,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_281,Impressions are high but nobody is clicking,budget exhausted
+TICKET_282,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_283,Ads approved but not delivering,poor keyword targeting
+TICKET_284,Traffic from ads decreased,poor keyword targeting
+TICKET_285,Conversions stopped tracking,conversion tracking failure
+TICKET_286,Conversions stopped tracking,bid strategy problem
+TICKET_287,My campaign budget finished too quickly,budget exhausted
+TICKET_288,Campaign spend increased unexpectedly,budget exhausted
+TICKET_289,My ads are getting clicks but no conversions,budget exhausted
+TICKET_290,My ads are getting clicks but no conversions,low CTR
+TICKET_291,Ads approved but not delivering,poor keyword targeting
+TICKET_292,Why are my ads not showing?,conversion tracking failure
+TICKET_293,Why is my CPC so high?,low CTR
+TICKET_294,Impressions are high but nobody is clicking,budget exhausted
+TICKET_295,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_296,Conversions stopped tracking,conversion tracking failure
+TICKET_297,CTR dropped suddenly yesterday,low CTR
+TICKET_298,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_299,Conversions stopped tracking,bid strategy problem
+TICKET_300,Campaign spend increased unexpectedly,bid strategy problem
+TICKET_301,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_302,My ads are getting clicks but no conversions,low CTR
+TICKET_303,My campaign budget finished too quickly,budget exhausted
+TICKET_304,My ads are getting clicks but no conversions,budget exhausted
+TICKET_305,Why are my ads not showing?,budget exhausted
+TICKET_306,Why are my ads not showing?,low CTR
+TICKET_307,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_308,Why is my CPC so high?,budget exhausted
+TICKET_309,Impressions are high but nobody is clicking,bid strategy problem
+TICKET_310,My campaign budget finished too quickly,low CTR
+TICKET_311,Conversions stopped tracking,poor keyword targeting
+TICKET_312,Why is my CPC so high?,budget exhausted
+TICKET_313,Conversions stopped tracking,low CTR
+TICKET_314,Conversions stopped tracking,bid strategy problem
+TICKET_315,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_316,CTR dropped suddenly yesterday,poor keyword targeting
+TICKET_317,Why are my ads not showing?,low CTR
+TICKET_318,Impressions are high but nobody is clicking,bid strategy problem
+TICKET_319,Conversions stopped tracking,poor keyword targeting
+TICKET_320,Impressions are high but nobody is clicking,low CTR
+TICKET_321,Impressions are high but nobody is clicking,bid strategy problem
+TICKET_322,Traffic from ads decreased,low CTR
+TICKET_323,Campaign spend increased unexpectedly,budget exhausted
+TICKET_324,Traffic from ads decreased,poor keyword targeting
+TICKET_325,Campaign spend increased unexpectedly,budget exhausted
+TICKET_326,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_327,Why is my CPC so high?,budget exhausted
+TICKET_328,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_329,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_330,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_331,Ads approved but not delivering,bid strategy problem
+TICKET_332,Why are my ads not showing?,low CTR
+TICKET_333,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_334,My ads are getting clicks but no conversions,budget exhausted
+TICKET_335,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_336,My campaign budget finished too quickly,poor keyword targeting
+TICKET_337,Traffic from ads decreased,bid strategy problem
+TICKET_338,CTR dropped suddenly yesterday,budget exhausted
+TICKET_339,CTR dropped suddenly yesterday,budget exhausted
+TICKET_340,Impressions are high but nobody is clicking,budget exhausted
+TICKET_341,Conversions stopped tracking,poor keyword targeting
+TICKET_342,CTR dropped suddenly yesterday,low CTR
+TICKET_343,CTR dropped suddenly yesterday,low CTR
+TICKET_344,My campaign budget finished too quickly,low CTR
+TICKET_345,CTR dropped suddenly yesterday,low CTR
+TICKET_346,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_347,Conversions stopped tracking,poor keyword targeting
+TICKET_348,Traffic from ads decreased,low CTR
+TICKET_349,Impressions are high but nobody is clicking,conversion tracking failure
+TICKET_350,Campaign spend increased unexpectedly,budget exhausted
+TICKET_351,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_352,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_353,Traffic from ads decreased,bid strategy problem
+TICKET_354,Conversions stopped tracking,budget exhausted
+TICKET_355,Conversions stopped tracking,poor keyword targeting
+TICKET_356,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_357,CTR dropped suddenly yesterday,low CTR
+TICKET_358,CTR dropped suddenly yesterday,bid strategy problem
+TICKET_359,My ads are getting clicks but no conversions,budget exhausted
+TICKET_360,Traffic from ads decreased,low CTR
+TICKET_361,My campaign budget finished too quickly,low CTR
+TICKET_362,Why are my ads not showing?,poor keyword targeting
+TICKET_363,Conversions stopped tracking,poor keyword targeting
+TICKET_364,Why is my CPC so high?,budget exhausted
+TICKET_365,Conversions stopped tracking,poor keyword targeting
+TICKET_366,Why are my ads not showing?,budget exhausted
+TICKET_367,CTR dropped suddenly yesterday,poor keyword targeting
+TICKET_368,Ads approved but not delivering,bid strategy problem
+TICKET_369,Campaign spend increased unexpectedly,low CTR
+TICKET_370,My ads are getting clicks but no conversions,low CTR
+TICKET_371,My campaign budget finished too quickly,bid strategy problem
+TICKET_372,Campaign spend increased unexpectedly,budget exhausted
+TICKET_373,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_374,Traffic from ads decreased,low CTR
+TICKET_375,My campaign budget finished too quickly,bid strategy problem
+TICKET_376,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_377,Impressions are high but nobody is clicking,conversion tracking failure
+TICKET_378,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_379,CTR dropped suddenly yesterday,low CTR
+TICKET_380,Campaign spend increased unexpectedly,bid strategy problem
+TICKET_381,Traffic from ads decreased,poor keyword targeting
+TICKET_382,Why is my CPC so high?,bid strategy problem
+TICKET_383,Why are my ads not showing?,conversion tracking failure
+TICKET_384,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_385,My campaign budget finished too quickly,conversion tracking failure
+TICKET_386,Traffic from ads decreased,budget exhausted
+TICKET_387,Why is my CPC so high?,budget exhausted
+TICKET_388,CTR dropped suddenly yesterday,low CTR
+TICKET_389,Why is my CPC so high?,budget exhausted
+TICKET_390,Traffic from ads decreased,low CTR
+TICKET_391,Traffic from ads decreased,bid strategy problem
+TICKET_392,Why are my ads not showing?,poor keyword targeting
+TICKET_393,Why are my ads not showing?,bid strategy problem
+TICKET_394,Ads approved but not delivering,bid strategy problem
+TICKET_395,My campaign budget finished too quickly,poor keyword targeting
+TICKET_396,Why is my CPC so high?,bid strategy problem
+TICKET_397,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_398,My ads are getting clicks but no conversions,budget exhausted
+TICKET_399,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_400,Impressions are high but nobody is clicking,low CTR
+TICKET_401,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_402,My campaign budget finished too quickly,poor keyword targeting
+TICKET_403,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_404,My campaign budget finished too quickly,bid strategy problem
+TICKET_405,CTR dropped suddenly yesterday,low CTR
+TICKET_406,Ads approved but not delivering,bid strategy problem
+TICKET_407,Campaign spend increased unexpectedly,budget exhausted
+TICKET_408,CTR dropped suddenly yesterday,budget exhausted
+TICKET_409,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_410,Why is my CPC so high?,conversion tracking failure
+TICKET_411,Conversions stopped tracking,poor keyword targeting
+TICKET_412,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_413,Campaign spend increased unexpectedly,budget exhausted
+TICKET_414,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_415,Why is my CPC so high?,conversion tracking failure
+TICKET_416,My campaign budget finished too quickly,poor keyword targeting
+TICKET_417,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_418,Traffic from ads decreased,poor keyword targeting
+TICKET_419,Why are my ads not showing?,budget exhausted
+TICKET_420,Why are my ads not showing?,low CTR
+TICKET_421,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_422,Conversions stopped tracking,budget exhausted
+TICKET_423,Ads approved but not delivering,poor keyword targeting
+TICKET_424,My campaign budget finished too quickly,poor keyword targeting
+TICKET_425,Why are my ads not showing?,conversion tracking failure
+TICKET_426,Why are my ads not showing?,budget exhausted
+TICKET_427,Campaign spend increased unexpectedly,bid strategy problem
+TICKET_428,Ads approved but not delivering,low CTR
+TICKET_429,Traffic from ads decreased,bid strategy problem
+TICKET_430,Conversions stopped tracking,bid strategy problem
+TICKET_431,My ads are getting clicks but no conversions,budget exhausted
+TICKET_432,Campaign spend increased unexpectedly,budget exhausted
+TICKET_433,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_434,My campaign budget finished too quickly,low CTR
+TICKET_435,Campaign spend increased unexpectedly,budget exhausted
+TICKET_436,My campaign budget finished too quickly,conversion tracking failure
+TICKET_437,Campaign spend increased unexpectedly,low CTR
+TICKET_438,My campaign budget finished too quickly,poor keyword targeting
+TICKET_439,Ads approved but not delivering,conversion tracking failure
+TICKET_440,Conversions stopped tracking,bid strategy problem
+TICKET_441,Impressions are high but nobody is clicking,conversion tracking failure
+TICKET_442,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_443,Conversions stopped tracking,poor keyword targeting
+TICKET_444,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_445,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_446,Conversions stopped tracking,conversion tracking failure
+TICKET_447,My campaign budget finished too quickly,budget exhausted
+TICKET_448,My ads are getting clicks but no conversions,low CTR
+TICKET_449,My ads are getting clicks but no conversions,budget exhausted
+TICKET_450,Ads approved but not delivering,conversion tracking failure
+TICKET_451,Why are my ads not showing?,low CTR
+TICKET_452,Conversions stopped tracking,budget exhausted
+TICKET_453,My ads are getting clicks but no conversions,low CTR
+TICKET_454,Traffic from ads decreased,low CTR
+TICKET_455,Impressions are high but nobody is clicking,budget exhausted
+TICKET_456,Ads approved but not delivering,bid strategy problem
+TICKET_457,My ads are getting clicks but no conversions,budget exhausted
+TICKET_458,Campaign spend increased unexpectedly,budget exhausted
+TICKET_459,Why is my CPC so high?,bid strategy problem
+TICKET_460,Why are my ads not showing?,conversion tracking failure
+TICKET_461,CTR dropped suddenly yesterday,poor keyword targeting
+TICKET_462,My campaign budget finished too quickly,conversion tracking failure
+TICKET_463,Conversions stopped tracking,conversion tracking failure
+TICKET_464,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_465,Why is my CPC so high?,poor keyword targeting
+TICKET_466,Conversions stopped tracking,low CTR
+TICKET_467,Why are my ads not showing?,bid strategy problem
+TICKET_468,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_469,Impressions are high but nobody is clicking,bid strategy problem
+TICKET_470,CTR dropped suddenly yesterday,bid strategy problem
+TICKET_471,Traffic from ads decreased,budget exhausted
+TICKET_472,Traffic from ads decreased,bid strategy problem
+TICKET_473,My campaign budget finished too quickly,conversion tracking failure
+TICKET_474,Impressions are high but nobody is clicking,budget exhausted
+TICKET_475,Ads approved but not delivering,low CTR
+TICKET_476,Why is my CPC so high?,poor keyword targeting
+TICKET_477,Impressions are high but nobody is clicking,low CTR
+TICKET_478,My campaign budget finished too quickly,poor keyword targeting
+TICKET_479,Why are my ads not showing?,bid strategy problem
+TICKET_480,My ads are getting clicks but no conversions,budget exhausted
+TICKET_481,Impressions are high but nobody is clicking,low CTR
+TICKET_482,CTR dropped suddenly yesterday,low CTR
+TICKET_483,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_484,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_485,Why is my CPC so high?,poor keyword targeting
+TICKET_486,Why is my CPC so high?,poor keyword targeting
+TICKET_487,Impressions are high but nobody is clicking,low CTR
+TICKET_488,CTR dropped suddenly yesterday,bid strategy problem
+TICKET_489,Campaign spend increased unexpectedly,budget exhausted
+TICKET_490,My ads are getting clicks but no conversions,budget exhausted
+TICKET_491,Traffic from ads decreased,poor keyword targeting
+TICKET_492,Conversions stopped tracking,poor keyword targeting
+TICKET_493,CTR dropped suddenly yesterday,budget exhausted
+TICKET_494,Why are my ads not showing?,low CTR
+TICKET_495,Conversions stopped tracking,budget exhausted
+TICKET_496,Conversions stopped tracking,poor keyword targeting
+TICKET_497,Ads approved but not delivering,conversion tracking failure
+TICKET_498,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_499,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_500,My campaign budget finished too quickly,poor keyword targeting
+TICKET_501,My campaign budget finished too quickly,bid strategy problem
+TICKET_502,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_503,Ads approved but not delivering,poor keyword targeting
+TICKET_504,Conversions stopped tracking,bid strategy problem
+TICKET_505,Impressions are high but nobody is clicking,budget exhausted
+TICKET_506,Why is my CPC so high?,budget exhausted
+TICKET_507,Impressions are high but nobody is clicking,budget exhausted
+TICKET_508,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_509,Ads approved but not delivering,low CTR
+TICKET_510,Conversions stopped tracking,conversion tracking failure
+TICKET_511,Why is my CPC so high?,conversion tracking failure
+TICKET_512,Impressions are high but nobody is clicking,budget exhausted
+TICKET_513,Campaign spend increased unexpectedly,bid strategy problem
+TICKET_514,Conversions stopped tracking,low CTR
+TICKET_515,Why are my ads not showing?,poor keyword targeting
+TICKET_516,Why is my CPC so high?,conversion tracking failure
+TICKET_517,My ads are getting clicks but no conversions,low CTR
+TICKET_518,Conversions stopped tracking,poor keyword targeting
+TICKET_519,Impressions are high but nobody is clicking,budget exhausted
+TICKET_520,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_521,Impressions are high but nobody is clicking,low CTR
+TICKET_522,Ads approved but not delivering,poor keyword targeting
+TICKET_523,Conversions stopped tracking,poor keyword targeting
+TICKET_524,Ads approved but not delivering,budget exhausted
+TICKET_525,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_526,Campaign spend increased unexpectedly,low CTR
+TICKET_527,Ads approved but not delivering,poor keyword targeting
+TICKET_528,Ads approved but not delivering,low CTR
+TICKET_529,My campaign budget finished too quickly,bid strategy problem
+TICKET_530,Traffic from ads decreased,bid strategy problem
+TICKET_531,Why are my ads not showing?,budget exhausted
+TICKET_532,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_533,Ads approved but not delivering,conversion tracking failure
+TICKET_534,My campaign budget finished too quickly,conversion tracking failure
+TICKET_535,Why is my CPC so high?,low CTR
+TICKET_536,My campaign budget finished too quickly,conversion tracking failure
+TICKET_537,Why are my ads not showing?,poor keyword targeting
+TICKET_538,My campaign budget finished too quickly,budget exhausted
+TICKET_539,Impressions are high but nobody is clicking,low CTR
+TICKET_540,Why is my CPC so high?,poor keyword targeting
+TICKET_541,Traffic from ads decreased,bid strategy problem
+TICKET_542,Impressions are high but nobody is clicking,low CTR
+TICKET_543,Why is my CPC so high?,low CTR
+TICKET_544,Campaign spend increased unexpectedly,budget exhausted
+TICKET_545,Traffic from ads decreased,low CTR
+TICKET_546,My campaign budget finished too quickly,poor keyword targeting
+TICKET_547,Traffic from ads decreased,bid strategy problem
+TICKET_548,My campaign budget finished too quickly,low CTR
+TICKET_549,My campaign budget finished too quickly,budget exhausted
+TICKET_550,CTR dropped suddenly yesterday,poor keyword targeting
+TICKET_551,CTR dropped suddenly yesterday,poor keyword targeting
+TICKET_552,CTR dropped suddenly yesterday,budget exhausted
+TICKET_553,Impressions are high but nobody is clicking,bid strategy problem
+TICKET_554,Why are my ads not showing?,low CTR
+TICKET_555,Ads approved but not delivering,budget exhausted
+TICKET_556,Why is my CPC so high?,conversion tracking failure
+TICKET_557,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_558,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_559,Ads approved but not delivering,conversion tracking failure
+TICKET_560,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_561,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_562,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_563,Why are my ads not showing?,bid strategy problem
+TICKET_564,Why are my ads not showing?,low CTR
+TICKET_565,Why are my ads not showing?,budget exhausted
+TICKET_566,My ads are getting clicks but no conversions,low CTR
+TICKET_567,My ads are getting clicks but no conversions,low CTR
+TICKET_568,My campaign budget finished too quickly,bid strategy problem
+TICKET_569,My campaign budget finished too quickly,conversion tracking failure
+TICKET_570,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_571,My campaign budget finished too quickly,bid strategy problem
+TICKET_572,Conversions stopped tracking,low CTR
+TICKET_573,Impressions are high but nobody is clicking,low CTR
+TICKET_574,Ads approved but not delivering,bid strategy problem
+TICKET_575,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_576,Why is my CPC so high?,low CTR
+TICKET_577,Traffic from ads decreased,bid strategy problem
+TICKET_578,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_579,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_580,Impressions are high but nobody is clicking,conversion tracking failure
+TICKET_581,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_582,Traffic from ads decreased,low CTR
+TICKET_583,Ads approved but not delivering,bid strategy problem
+TICKET_584,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_585,Campaign spend increased unexpectedly,bid strategy problem
+TICKET_586,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_587,Ads approved but not delivering,bid strategy problem
+TICKET_588,Traffic from ads decreased,budget exhausted
+TICKET_589,CTR dropped suddenly yesterday,budget exhausted
+TICKET_590,Traffic from ads decreased,bid strategy problem
+TICKET_591,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_592,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_593,My ads are getting clicks but no conversions,budget exhausted
+TICKET_594,Traffic from ads decreased,poor keyword targeting
+TICKET_595,Impressions are high but nobody is clicking,bid strategy problem
+TICKET_596,Why are my ads not showing?,poor keyword targeting
+TICKET_597,Impressions are high but nobody is clicking,bid strategy problem
+TICKET_598,Ads approved but not delivering,bid strategy problem
+TICKET_599,Campaign spend increased unexpectedly,bid strategy problem
+TICKET_600,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_601,Ads approved but not delivering,budget exhausted
+TICKET_602,Ads approved but not delivering,poor keyword targeting
+TICKET_603,CTR dropped suddenly yesterday,bid strategy problem
+TICKET_604,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_605,Why are my ads not showing?,conversion tracking failure
+TICKET_606,Conversions stopped tracking,bid strategy problem
+TICKET_607,CTR dropped suddenly yesterday,low CTR
+TICKET_608,Ads approved but not delivering,budget exhausted
+TICKET_609,Ads approved but not delivering,conversion tracking failure
+TICKET_610,Why are my ads not showing?,conversion tracking failure
+TICKET_611,Traffic from ads decreased,poor keyword targeting
+TICKET_612,Impressions are high but nobody is clicking,budget exhausted
+TICKET_613,My campaign budget finished too quickly,bid strategy problem
+TICKET_614,Why is my CPC so high?,bid strategy problem
+TICKET_615,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_616,Ads approved but not delivering,poor keyword targeting
+TICKET_617,My campaign budget finished too quickly,conversion tracking failure
+TICKET_618,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_619,My campaign budget finished too quickly,conversion tracking failure
+TICKET_620,Why is my CPC so high?,bid strategy problem
+TICKET_621,Impressions are high but nobody is clicking,bid strategy problem
+TICKET_622,Traffic from ads decreased,low CTR
+TICKET_623,Conversions stopped tracking,bid strategy problem
+TICKET_624,Conversions stopped tracking,bid strategy problem
+TICKET_625,CTR dropped suddenly yesterday,poor keyword targeting
+TICKET_626,CTR dropped suddenly yesterday,poor keyword targeting
+TICKET_627,My ads are getting clicks but no conversions,budget exhausted
+TICKET_628,Traffic from ads decreased,budget exhausted
+TICKET_629,Why is my CPC so high?,conversion tracking failure
+TICKET_630,Conversions stopped tracking,bid strategy problem
+TICKET_631,CTR dropped suddenly yesterday,budget exhausted
+TICKET_632,Ads approved but not delivering,poor keyword targeting
+TICKET_633,My campaign budget finished too quickly,bid strategy problem
+TICKET_634,Why is my CPC so high?,poor keyword targeting
+TICKET_635,Conversions stopped tracking,bid strategy problem
+TICKET_636,Campaign spend increased unexpectedly,bid strategy problem
+TICKET_637,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_638,Ads approved but not delivering,bid strategy problem
+TICKET_639,Ads approved but not delivering,poor keyword targeting
+TICKET_640,Why are my ads not showing?,budget exhausted
+TICKET_641,CTR dropped suddenly yesterday,low CTR
+TICKET_642,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_643,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_644,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_645,Traffic from ads decreased,poor keyword targeting
+TICKET_646,Conversions stopped tracking,poor keyword targeting
+TICKET_647,My campaign budget finished too quickly,conversion tracking failure
+TICKET_648,CTR dropped suddenly yesterday,poor keyword targeting
+TICKET_649,Traffic from ads decreased,bid strategy problem
+TICKET_650,Conversions stopped tracking,budget exhausted
+TICKET_651,My campaign budget finished too quickly,bid strategy problem
+TICKET_652,Why is my CPC so high?,budget exhausted
+TICKET_653,CTR dropped suddenly yesterday,budget exhausted
+TICKET_654,Traffic from ads decreased,bid strategy problem
+TICKET_655,Why is my CPC so high?,low CTR
+TICKET_656,Traffic from ads decreased,low CTR
+TICKET_657,Ads approved but not delivering,low CTR
+TICKET_658,Why is my CPC so high?,conversion tracking failure
+TICKET_659,Ads approved but not delivering,budget exhausted
+TICKET_660,Traffic from ads decreased,budget exhausted
+TICKET_661,My campaign budget finished too quickly,low CTR
+TICKET_662,Ads approved but not delivering,poor keyword targeting
+TICKET_663,Traffic from ads decreased,low CTR
+TICKET_664,My campaign budget finished too quickly,bid strategy problem
+TICKET_665,Ads approved but not delivering,bid strategy problem
+TICKET_666,Impressions are high but nobody is clicking,low CTR
+TICKET_667,Campaign spend increased unexpectedly,low CTR
+TICKET_668,Campaign spend increased unexpectedly,budget exhausted
+TICKET_669,Conversions stopped tracking,poor keyword targeting
+TICKET_670,My campaign budget finished too quickly,poor keyword targeting
+TICKET_671,Impressions are high but nobody is clicking,conversion tracking failure
+TICKET_672,My ads are getting clicks but no conversions,budget exhausted
+TICKET_673,Why is my CPC so high?,conversion tracking failure
+TICKET_674,Conversions stopped tracking,conversion tracking failure
+TICKET_675,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_676,CTR dropped suddenly yesterday,bid strategy problem
+TICKET_677,Traffic from ads decreased,low CTR
+TICKET_678,My campaign budget finished too quickly,conversion tracking failure
+TICKET_679,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_680,Campaign spend increased unexpectedly,budget exhausted
+TICKET_681,Impressions are high but nobody is clicking,budget exhausted
+TICKET_682,Campaign spend increased unexpectedly,low CTR
+TICKET_683,Why are my ads not showing?,budget exhausted
+TICKET_684,Why are my ads not showing?,conversion tracking failure
+TICKET_685,Why are my ads not showing?,conversion tracking failure
+TICKET_686,Why is my CPC so high?,conversion tracking failure
+TICKET_687,My campaign budget finished too quickly,conversion tracking failure
+TICKET_688,Impressions are high but nobody is clicking,budget exhausted
+TICKET_689,Why is my CPC so high?,budget exhausted
+TICKET_690,Impressions are high but nobody is clicking,low CTR
+TICKET_691,Why are my ads not showing?,conversion tracking failure
+TICKET_692,Impressions are high but nobody is clicking,bid strategy problem
+TICKET_693,Conversions stopped tracking,poor keyword targeting
+TICKET_694,Campaign spend increased unexpectedly,bid strategy problem
+TICKET_695,Why is my CPC so high?,bid strategy problem
+TICKET_696,CTR dropped suddenly yesterday,bid strategy problem
+TICKET_697,Why is my CPC so high?,poor keyword targeting
+TICKET_698,Impressions are high but nobody is clicking,low CTR
+TICKET_699,CTR dropped suddenly yesterday,budget exhausted
+TICKET_700,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_701,My ads are getting clicks but no conversions,budget exhausted
+TICKET_702,Conversions stopped tracking,poor keyword targeting
+TICKET_703,Campaign spend increased unexpectedly,bid strategy problem
+TICKET_704,Traffic from ads decreased,budget exhausted
+TICKET_705,Why are my ads not showing?,budget exhausted
+TICKET_706,Why are my ads not showing?,poor keyword targeting
+TICKET_707,Why are my ads not showing?,poor keyword targeting
+TICKET_708,Ads approved but not delivering,conversion tracking failure
+TICKET_709,Ads approved but not delivering,budget exhausted
+TICKET_710,Why is my CPC so high?,bid strategy problem
+TICKET_711,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_712,Why are my ads not showing?,bid strategy problem
+TICKET_713,Impressions are high but nobody is clicking,bid strategy problem
+TICKET_714,Why are my ads not showing?,low CTR
+TICKET_715,Impressions are high but nobody is clicking,bid strategy problem
+TICKET_716,CTR dropped suddenly yesterday,budget exhausted
+TICKET_717,My campaign budget finished too quickly,conversion tracking failure
+TICKET_718,My ads are getting clicks but no conversions,budget exhausted
+TICKET_719,Impressions are high but nobody is clicking,low CTR
+TICKET_720,Impressions are high but nobody is clicking,budget exhausted
+TICKET_721,Conversions stopped tracking,conversion tracking failure
+TICKET_722,CTR dropped suddenly yesterday,budget exhausted
+TICKET_723,Conversions stopped tracking,poor keyword targeting
+TICKET_724,Impressions are high but nobody is clicking,conversion tracking failure
+TICKET_725,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_726,Traffic from ads decreased,poor keyword targeting
+TICKET_727,My campaign budget finished too quickly,conversion tracking failure
+TICKET_728,My campaign budget finished too quickly,conversion tracking failure
+TICKET_729,My campaign budget finished too quickly,budget exhausted
+TICKET_730,Why is my CPC so high?,poor keyword targeting
+TICKET_731,Traffic from ads decreased,conversion tracking failure
+TICKET_732,Ads approved but not delivering,bid strategy problem
+TICKET_733,Campaign spend increased unexpectedly,low CTR
+TICKET_734,My ads are getting clicks but no conversions,low CTR
+TICKET_735,Ads approved but not delivering,budget exhausted
+TICKET_736,Ads approved but not delivering,low CTR
+TICKET_737,Campaign spend increased unexpectedly,budget exhausted
+TICKET_738,CTR dropped suddenly yesterday,bid strategy problem
+TICKET_739,Campaign spend increased unexpectedly,bid strategy problem
+TICKET_740,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_741,Traffic from ads decreased,bid strategy problem
+TICKET_742,CTR dropped suddenly yesterday,poor keyword targeting
+TICKET_743,Ads approved but not delivering,low CTR
+TICKET_744,Why are my ads not showing?,budget exhausted
+TICKET_745,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_746,Impressions are high but nobody is clicking,budget exhausted
+TICKET_747,Why is my CPC so high?,low CTR
+TICKET_748,My ads are getting clicks but no conversions,budget exhausted
+TICKET_749,Conversions stopped tracking,budget exhausted
+TICKET_750,My campaign budget finished too quickly,conversion tracking failure
+TICKET_751,Ads approved but not delivering,budget exhausted
+TICKET_752,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_753,Conversions stopped tracking,conversion tracking failure
+TICKET_754,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_755,Why are my ads not showing?,low CTR
+TICKET_756,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_757,Why are my ads not showing?,budget exhausted
+TICKET_758,CTR dropped suddenly yesterday,bid strategy problem
+TICKET_759,Impressions are high but nobody is clicking,low CTR
+TICKET_760,My campaign budget finished too quickly,low CTR
+TICKET_761,Why are my ads not showing?,conversion tracking failure
+TICKET_762,Traffic from ads decreased,low CTR
+TICKET_763,My ads are getting clicks but no conversions,budget exhausted
+TICKET_764,My ads are getting clicks but no conversions,low CTR
+TICKET_765,Why are my ads not showing?,poor keyword targeting
+TICKET_766,My campaign budget finished too quickly,budget exhausted
+TICKET_767,Conversions stopped tracking,poor keyword targeting
+TICKET_768,CTR dropped suddenly yesterday,budget exhausted
+TICKET_769,Why is my CPC so high?,bid strategy problem
+TICKET_770,Why are my ads not showing?,poor keyword targeting
+TICKET_771,Ads approved but not delivering,low CTR
+TICKET_772,Why are my ads not showing?,poor keyword targeting
+TICKET_773,Conversions stopped tracking,bid strategy problem
+TICKET_774,My campaign budget finished too quickly,low CTR
+TICKET_775,CTR dropped suddenly yesterday,budget exhausted
+TICKET_776,My campaign budget finished too quickly,conversion tracking failure
+TICKET_777,My campaign budget finished too quickly,poor keyword targeting
+TICKET_778,My campaign budget finished too quickly,low CTR
+TICKET_779,My ads are getting clicks but no conversions,low CTR
+TICKET_780,Why are my ads not showing?,low CTR
+TICKET_781,Why are my ads not showing?,poor keyword targeting
+TICKET_782,Ads approved but not delivering,poor keyword targeting
+TICKET_783,Ads approved but not delivering,bid strategy problem
+TICKET_784,Ads approved but not delivering,conversion tracking failure
+TICKET_785,My campaign budget finished too quickly,conversion tracking failure
+TICKET_786,Ads approved but not delivering,conversion tracking failure
+TICKET_787,Why are my ads not showing?,budget exhausted
+TICKET_788,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_789,Traffic from ads decreased,bid strategy problem
+TICKET_790,Why is my CPC so high?,poor keyword targeting
+TICKET_791,Why are my ads not showing?,budget exhausted
+TICKET_792,Why is my CPC so high?,conversion tracking failure
+TICKET_793,Conversions stopped tracking,budget exhausted
+TICKET_794,My campaign budget finished too quickly,conversion tracking failure
+TICKET_795,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_796,CTR dropped suddenly yesterday,poor keyword targeting
+TICKET_797,Conversions stopped tracking,poor keyword targeting
+TICKET_798,Traffic from ads decreased,poor keyword targeting
+TICKET_799,Traffic from ads decreased,conversion tracking failure
+TICKET_800,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_801,Ads approved but not delivering,conversion tracking failure
+TICKET_802,My campaign budget finished too quickly,poor keyword targeting
+TICKET_803,Why is my CPC so high?,poor keyword targeting
+TICKET_804,Ads approved but not delivering,conversion tracking failure
+TICKET_805,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_806,CTR dropped suddenly yesterday,budget exhausted
+TICKET_807,Ads approved but not delivering,bid strategy problem
+TICKET_808,Why is my CPC so high?,low CTR
+TICKET_809,Why are my ads not showing?,budget exhausted
+TICKET_810,Ads approved but not delivering,poor keyword targeting
+TICKET_811,Why are my ads not showing?,poor keyword targeting
+TICKET_812,CTR dropped suddenly yesterday,bid strategy problem
+TICKET_813,Traffic from ads decreased,bid strategy problem
+TICKET_814,Why are my ads not showing?,budget exhausted
+TICKET_815,Traffic from ads decreased,conversion tracking failure
+TICKET_816,Traffic from ads decreased,poor keyword targeting
+TICKET_817,Impressions are high but nobody is clicking,conversion tracking failure
+TICKET_818,Conversions stopped tracking,bid strategy problem
+TICKET_819,Why are my ads not showing?,poor keyword targeting
+TICKET_820,Why are my ads not showing?,budget exhausted
+TICKET_821,Conversions stopped tracking,budget exhausted
+TICKET_822,My campaign budget finished too quickly,bid strategy problem
+TICKET_823,Why are my ads not showing?,conversion tracking failure
+TICKET_824,Why are my ads not showing?,conversion tracking failure
+TICKET_825,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_826,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_827,Conversions stopped tracking,low CTR
+TICKET_828,Conversions stopped tracking,low CTR
+TICKET_829,Ads approved but not delivering,low CTR
+TICKET_830,Conversions stopped tracking,budget exhausted
+TICKET_831,Why are my ads not showing?,bid strategy problem
+TICKET_832,Traffic from ads decreased,poor keyword targeting
+TICKET_833,Impressions are high but nobody is clicking,low CTR
+TICKET_834,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_835,Conversions stopped tracking,conversion tracking failure
+TICKET_836,Campaign spend increased unexpectedly,budget exhausted
+TICKET_837,Impressions are high but nobody is clicking,budget exhausted
+TICKET_838,CTR dropped suddenly yesterday,bid strategy problem
+TICKET_839,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_840,Impressions are high but nobody is clicking,budget exhausted
+TICKET_841,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_842,Traffic from ads decreased,budget exhausted
+TICKET_843,Conversions stopped tracking,conversion tracking failure
+TICKET_844,Why is my CPC so high?,conversion tracking failure
+TICKET_845,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_846,Conversions stopped tracking,bid strategy problem
+TICKET_847,Why is my CPC so high?,poor keyword targeting
+TICKET_848,Ads approved but not delivering,bid strategy problem
+TICKET_849,Why is my CPC so high?,low CTR
+TICKET_850,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_851,CTR dropped suddenly yesterday,budget exhausted
+TICKET_852,Why are my ads not showing?,budget exhausted
+TICKET_853,Ads approved but not delivering,budget exhausted
+TICKET_854,Ads approved but not delivering,low CTR
+TICKET_855,Ads approved but not delivering,bid strategy problem
+TICKET_856,My campaign budget finished too quickly,low CTR
+TICKET_857,Traffic from ads decreased,budget exhausted
+TICKET_858,Conversions stopped tracking,poor keyword targeting
+TICKET_859,Campaign spend increased unexpectedly,budget exhausted
+TICKET_860,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_861,Ads approved but not delivering,conversion tracking failure
+TICKET_862,Conversions stopped tracking,poor keyword targeting
+TICKET_863,CTR dropped suddenly yesterday,bid strategy problem
+TICKET_864,Conversions stopped tracking,conversion tracking failure
+TICKET_865,CTR dropped suddenly yesterday,low CTR
+TICKET_866,Ads approved but not delivering,poor keyword targeting
+TICKET_867,Why are my ads not showing?,conversion tracking failure
+TICKET_868,My campaign budget finished too quickly,conversion tracking failure
+TICKET_869,My campaign budget finished too quickly,budget exhausted
+TICKET_870,Impressions are high but nobody is clicking,low CTR
+TICKET_871,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_872,My campaign budget finished too quickly,budget exhausted
+TICKET_873,Ads approved but not delivering,conversion tracking failure
+TICKET_874,Why are my ads not showing?,bid strategy problem
+TICKET_875,Conversions stopped tracking,poor keyword targeting
+TICKET_876,Impressions are high but nobody is clicking,budget exhausted
+TICKET_877,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_878,Ads approved but not delivering,budget exhausted
+TICKET_879,Why is my CPC so high?,conversion tracking failure
+TICKET_880,CTR dropped suddenly yesterday,budget exhausted
+TICKET_881,My campaign budget finished too quickly,conversion tracking failure
+TICKET_882,Ads approved but not delivering,low CTR
+TICKET_883,My ads are getting clicks but no conversions,low CTR
+TICKET_884,Why is my CPC so high?,poor keyword targeting
+TICKET_885,Traffic from ads decreased,poor keyword targeting
+TICKET_886,Conversions stopped tracking,poor keyword targeting
+TICKET_887,Why is my CPC so high?,poor keyword targeting
+TICKET_888,Traffic from ads decreased,poor keyword targeting
+TICKET_889,Ads approved but not delivering,low CTR
+TICKET_890,Campaign spend increased unexpectedly,budget exhausted
+TICKET_891,Campaign spend increased unexpectedly,low CTR
+TICKET_892,Ads approved but not delivering,conversion tracking failure
+TICKET_893,Impressions are high but nobody is clicking,low CTR
+TICKET_894,Campaign spend increased unexpectedly,bid strategy problem
+TICKET_895,Campaign spend increased unexpectedly,bid strategy problem
+TICKET_896,Why is my CPC so high?,poor keyword targeting
+TICKET_897,My campaign budget finished too quickly,bid strategy problem
+TICKET_898,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_899,Traffic from ads decreased,poor keyword targeting
+TICKET_900,Why is my CPC so high?,poor keyword targeting
+TICKET_901,Ads approved but not delivering,bid strategy problem
+TICKET_902,Traffic from ads decreased,bid strategy problem
+TICKET_903,My campaign budget finished too quickly,low CTR
+TICKET_904,My campaign budget finished too quickly,budget exhausted
+TICKET_905,Conversions stopped tracking,low CTR
+TICKET_906,My ads are getting clicks but no conversions,low CTR
+TICKET_907,Why is my CPC so high?,poor keyword targeting
+TICKET_908,My ads are getting clicks but no conversions,budget exhausted
+TICKET_909,My ads are getting clicks but no conversions,low CTR
+TICKET_910,My ads are getting clicks but no conversions,budget exhausted
+TICKET_911,Traffic from ads decreased,low CTR
+TICKET_912,Why is my CPC so high?,bid strategy problem
+TICKET_913,Campaign spend increased unexpectedly,conversion tracking failure
+TICKET_914,Impressions are high but nobody is clicking,bid strategy problem
+TICKET_915,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_916,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_917,Ads approved but not delivering,conversion tracking failure
+TICKET_918,Why is my CPC so high?,budget exhausted
+TICKET_919,Conversions stopped tracking,bid strategy problem
+TICKET_920,Why are my ads not showing?,poor keyword targeting
+TICKET_921,Impressions are high but nobody is clicking,bid strategy problem
+TICKET_922,Conversions stopped tracking,bid strategy problem
+TICKET_923,Why is my CPC so high?,budget exhausted
+TICKET_924,My ads are getting clicks but no conversions,low CTR
+TICKET_925,My campaign budget finished too quickly,low CTR
+TICKET_926,Ads approved but not delivering,low CTR
+TICKET_927,Ads approved but not delivering,budget exhausted
+TICKET_928,Campaign spend increased unexpectedly,low CTR
+TICKET_929,CTR dropped suddenly yesterday,poor keyword targeting
+TICKET_930,Why is my CPC so high?,poor keyword targeting
+TICKET_931,Impressions are high but nobody is clicking,budget exhausted
+TICKET_932,Why is my CPC so high?,low CTR
+TICKET_933,Traffic from ads decreased,conversion tracking failure
+TICKET_934,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_935,My campaign budget finished too quickly,budget exhausted
+TICKET_936,Why is my CPC so high?,bid strategy problem
+TICKET_937,Traffic from ads decreased,low CTR
+TICKET_938,Ads approved but not delivering,budget exhausted
+TICKET_939,Why is my CPC so high?,conversion tracking failure
+TICKET_940,My ads are getting clicks but no conversions,low CTR
+TICKET_941,My ads are getting clicks but no conversions,budget exhausted
+TICKET_942,CTR dropped suddenly yesterday,poor keyword targeting
+TICKET_943,Traffic from ads decreased,budget exhausted
+TICKET_944,Ads approved but not delivering,budget exhausted
+TICKET_945,My campaign budget finished too quickly,poor keyword targeting
+TICKET_946,CTR dropped suddenly yesterday,budget exhausted
+TICKET_947,Traffic from ads decreased,low CTR
+TICKET_948,Campaign spend increased unexpectedly,budget exhausted
+TICKET_949,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_950,Ads approved but not delivering,poor keyword targeting
+TICKET_951,CTR dropped suddenly yesterday,bid strategy problem
+TICKET_952,Why is my CPC so high?,poor keyword targeting
+TICKET_953,Impressions are high but nobody is clicking,poor keyword targeting
+TICKET_954,My campaign budget finished too quickly,low CTR
+TICKET_955,Traffic from ads decreased,bid strategy problem
+TICKET_956,Why are my ads not showing?,low CTR
+TICKET_957,CTR dropped suddenly yesterday,conversion tracking failure
+TICKET_958,Ads approved but not delivering,low CTR
+TICKET_959,Why are my ads not showing?,budget exhausted
+TICKET_960,Ads approved but not delivering,poor keyword targeting
+TICKET_961,Campaign spend increased unexpectedly,bid strategy problem
+TICKET_962,Ads approved but not delivering,poor keyword targeting
+TICKET_963,Campaign spend increased unexpectedly,poor keyword targeting
+TICKET_964,Why is my CPC so high?,budget exhausted
+TICKET_965,Campaign spend increased unexpectedly,bid strategy problem
+TICKET_966,My campaign budget finished too quickly,poor keyword targeting
+TICKET_967,CTR dropped suddenly yesterday,poor keyword targeting
+TICKET_968,Ads approved but not delivering,poor keyword targeting
+TICKET_969,Ads approved but not delivering,bid strategy problem
+TICKET_970,Why is my CPC so high?,budget exhausted
+TICKET_971,Traffic from ads decreased,poor keyword targeting
+TICKET_972,My ads are getting clicks but no conversions,bid strategy problem
+TICKET_973,Ads approved but not delivering,bid strategy problem
+TICKET_974,CTR dropped suddenly yesterday,budget exhausted
+TICKET_975,Ads approved but not delivering,conversion tracking failure
+TICKET_976,Impressions are high but nobody is clicking,budget exhausted
+TICKET_977,Why is my CPC so high?,budget exhausted
+TICKET_978,CTR dropped suddenly yesterday,poor keyword targeting
+TICKET_979,Conversions stopped tracking,bid strategy problem
+TICKET_980,Campaign spend increased unexpectedly,budget exhausted
+TICKET_981,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_982,Why are my ads not showing?,bid strategy problem
+TICKET_983,Ads approved but not delivering,bid strategy problem
+TICKET_984,Impressions are high but nobody is clicking,conversion tracking failure
+TICKET_985,Campaign spend increased unexpectedly,bid strategy problem
+TICKET_986,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_987,Why is my CPC so high?,low CTR
+TICKET_988,Why is my CPC so high?,budget exhausted
+TICKET_989,Why is my CPC so high?,bid strategy problem
+TICKET_990,Why are my ads not showing?,poor keyword targeting
+TICKET_991,My ads are getting clicks but no conversions,poor keyword targeting
+TICKET_992,Traffic from ads decreased,poor keyword targeting
+TICKET_993,My campaign budget finished too quickly,bid strategy problem
+TICKET_994,CTR dropped suddenly yesterday,budget exhausted
+TICKET_995,My ads are getting clicks but no conversions,conversion tracking failure
+TICKET_996,Why are my ads not showing?,conversion tracking failure
+TICKET_997,Ads approved but not delivering,low CTR
+TICKET_998,Campaign spend increased unexpectedly,low CTR
+TICKET_999,Ads approved but not delivering,low CTR
+TICKET_1000,Traffic from ads decreased,low CTR
